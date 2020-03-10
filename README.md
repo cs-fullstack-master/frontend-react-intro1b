@@ -1,7 +1,5 @@
 # React Basics IC
 
-Create a new create-react-app program. Create a new StudentAccount component. Pass firstName and grade to the new component. Call the component from the original component.
-
 Create a new react app
 * run `npx create-react-app app-name` in the terminal
 * `cd` into the generated directory
